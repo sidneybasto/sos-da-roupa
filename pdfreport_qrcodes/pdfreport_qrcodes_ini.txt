@@ -1,0 +1,7 @@
+index.php
+sos_da_roupa
+pdfreport_qrcodes
+NAO
+reportpdf
+pdfreport_qrcodes
+LigMd5

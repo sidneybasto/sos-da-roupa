@@ -1,0 +1,7 @@
+index.php
+sos_da_roupa
+grid_qrcodes
+NAO
+cons
+grid_qrcodes
+LigMd5
